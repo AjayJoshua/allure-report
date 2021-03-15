@@ -7,7 +7,7 @@ branding:
 inputs:
   allure_results:
     description: 'Allure test result data dir'
-    required: true
+    required: true 
     default: 'allure-results'
   allure_report:
     description: 'Allure report target dir'
